@@ -1,4 +1,4 @@
-# Hi am jonny-exe
+# Hi, I am jonny-exe
 Checkout my projects at [jonny.sytes.net](https://www.jonny.sytes.net)
 
 
