@@ -1,5 +1,5 @@
 # Hi, I am jonny-exe
-Checkout my projects at [jonny.sytes.net](https://www.jonny.sytes.net)
+Checkout my projects at [jonny.sytes.net](https://jonny.sytes.net)
 
 
 
