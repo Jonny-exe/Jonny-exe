@@ -7,7 +7,12 @@ These are some of my favorite projects:
 4. 🧠 [Minesweeper AI](https://github.com/Jonny-exe/solving-mines): This is a neural net trained for solving minesweeper.
 5. 📦 [3D Cube](https://github.com/Jonny-exe/3d-cube): This script displays a 3D spinning cube on your terminal.
 
-Checkout more projects at [jonny.sytes.net](https://jonny.sytes.net)
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonny-exe&show_icons=true&hide_border=true" />
+</p>
+
 
 <!---
 Jonny-exe/Jonny-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
